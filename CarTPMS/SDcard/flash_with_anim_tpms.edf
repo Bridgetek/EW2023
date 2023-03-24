@@ -1,0 +1,9 @@
+Name                                                           : ID : Offset   : Size    : Compression : Type : Sub-Type : Width : Height
+
+unified.blob                                                   : 0  : 0        : 4096    : 0           : 1    : 0        : 0     : 0     
+flash_no_anim_no_blob.bin                                      : 1  : 4096     : 1675264 : 1           : 254  : 0        : 0     : 0     
+static_BG 2_nonsquare_864x480_COMPRESSED_RGBA_ASTC_4x4_KHR.raw : 2  : 1679360  : 414720  : 0           : 254  : 0        : 0     : 0     
+materials phase 1.anim.data                                    : 3  : 2094080  : 4606528 : 0           : 7    : 0        : 810   : 480   
+materials phase 1.anim.object                                  : 4  : 6700608  : 576     : 0           : 8    : 0        : 810   : 480   
+materials phase 2.anim.data                                    : 5  : 6701184  : 4350528 : 0           : 7    : 0        : 810   : 480   
+materials phase 2.anim.object                                  : 6  : 11051712 : 768     : 0           : 8    : 0        : 810   : 480   

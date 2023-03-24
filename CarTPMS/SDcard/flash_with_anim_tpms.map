@@ -1,0 +1,7 @@
+unified.blob                                                   : 0        : 4096   
+flash_no_anim_no_blob.bin                                      : 4096     : 1675264
+static_BG 2_nonsquare_864x480_COMPRESSED_RGBA_ASTC_4x4_KHR.raw : 1679360  : 414720 
+materials phase 1.anim.data                                    : 2094080  : 4606528
+materials phase 1.anim.object                                  : 6700608  : 576    
+materials phase 2.anim.data                                    : 6701184  : 4350528
+materials phase 2.anim.object                                  : 11051712 : 768    

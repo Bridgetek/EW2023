@@ -1,0 +1,7 @@
+unified.blob                                                 : 0       : 4096   : 254   : 0     : 0     : 0    
+GUI2_BG_LeftHalf_720x540_COMPRESSED_RGBA_ASTC_4x4_KHR.raw    : 4096    : 388800 : 254   : 0     : 0     : 1    
+GUI2_BG_RightHalf_720x540_COMPRESSED_RGBA_ASTC_4x4_KHR.raw   : 392896  : 388800 : 254   : 0     : 0     : 2    
+GUI2_RPM_Needle_20x212_COMPRESSED_RGBA_ASTC_4x4_KHR.raw      : 781696  : 4288   : 254   : 0     : 0     : 3    
+GUI1_BG_1440x540_COMPRESSED_RGBA_ASTC_6x6_KHR.raw            : 785984  : 345600 : 254   : 0     : 0     : 4    
+GUI1_Gear_Highlighter_40x40_COMPRESSED_RGBA_ASTC_4x4_KHR.raw : 1131584 : 1600   : 254   : 0     : 0     : 5    
+GUI1_Needle_12x160_COMPRESSED_RGBA_ASTC_4x4_KHR.raw          : 1133184 : 1920   : 254   : 0     : 0     : 6    
