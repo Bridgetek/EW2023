@@ -1,6 +1,6 @@
 
 ## INTRODUCTION
-This is a demo for an Car Climate Control using BridgeTek EVE and RP2040
+This is a demo for an Car Climate Control using BridgeTek [IDM2040-7A](https://brtchip.com/product/idm2040-7a/) module
 
 
 ## HARDWARE 
