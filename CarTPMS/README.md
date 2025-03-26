@@ -4,10 +4,10 @@ This is a demo for an Car TPMS using BridgeTek EVE and RP2040
 
 
 ## HARDWARE 
-- IDM2040EV
+- [IDM2040-7A](https://brtchip.com/product/idm2040-7a/)
 
 ## STARTUP
-- Start IDM2040 with adafruit-circuitpython-raspberry_pi_pico-en_US-8.0.3
+- Start IDM2040-7A with adafruit-circuitpython-raspberry_pi_pico-en_US-8.0.3
 
   Follow this guideline: https://learn.adafruit.com/intro-to-rp2040-pio-with-circuitpython/installing-circuitpython
 
